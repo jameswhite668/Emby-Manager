@@ -278,7 +278,7 @@ python start_production.py --gunicorn
 - 生产环境优化
 
 ## 感谢支持
-<img width="1122" height="1527" alt="24d2dba27e55124441b990463772d168" src="https://github.com/user-attachments/assets/d019ab6f-26f4-4a80-96af-34a8daf8a7a4" />
+<img width="123" height="157" alt="24d2dba27e55124441b990463772d168" src="https://github.com/user-attachments/assets/d019ab6f-26f4-4a80-96af-34a8daf8a7a4" />
 
 
 ## 许可证
